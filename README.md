@@ -1,7 +1,8 @@
 # Desafio de Validação de Sintaxe
 
-Crie um sistema que valide a sintaxe correta. 
-Alguns exemplos:
+Crie um sistema que valide sintaxes corretamente. 
+
+### Alguns exemplos:
 {{}} - correta
 {[]} - correta
 [[[[[[[[[] - incorreta
